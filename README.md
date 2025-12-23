@@ -2,7 +2,7 @@
 
 A comprehensive web application for distributed data processing and machine learning analytics using Apache Spark/PySpark.
 
-## 🎯 Features
+##  Features
 
 ### Data Upload
 - Support for multiple file formats: CSV, JSON, TXT, PDF
@@ -28,7 +28,7 @@ A comprehensive web application for distributed data processing and machine lear
 - Efficiency measurement
 - Scalability assessment
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────┐         ┌─────────────┐         ┌─────────────┐
@@ -103,7 +103,7 @@ export SPARK_HOME=/path/to/spark-3.5.0-bin-hadoop3
 export PATH=$PATH:$SPARK_HOME/bin
 ```
 
-## 🎮 Usage
+##  Usage
 
 ### 1. Start the Backend Server
 
@@ -134,7 +134,7 @@ Then navigate to `http://localhost:8000`
 5. **View Results**: Explore statistics, ML results, and performance metrics
 6. **Download Report**: Get formatted results in a text file
 
-## 📊 Sample Datasets
+##  Sample Datasets
 
 You can test the application with datasets from:
 
@@ -148,7 +148,7 @@ Recommended datasets:
 - Mall Customers (Clustering)
 - Market Basket (Association Rules)
 
-## 🔧 Configuration
+##  Configuration
 
 ### Spark Configuration
 
@@ -198,7 +198,7 @@ cloud-data-processing/
 └── README.md
 ```
 
-## 🌐 Deployment
+##  Deployment
 
 ### AWS Deployment
 
@@ -219,7 +219,7 @@ cloud-data-processing/
 2. **Store data in Blob Storage**
 3. **Deploy Flask on App Service**
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 The application tracks:
 
@@ -236,7 +236,7 @@ The application tracks:
 - **Fair (50-70%)**: Moderate scalability
 - **Poor (<50%)**: Limited benefits
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -267,7 +267,7 @@ from flask_cors import CORS
 CORS(app)
 ```
 
-## 📝 API Documentation
+##  API Documentation
 
 ### Upload Endpoint
 
@@ -317,7 +317,7 @@ Response:
 }
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -325,33 +325,27 @@ Response:
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Mahmoud Alkhudari - Initial work
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Apache Spark community
 - UCI Machine Learning Repository
 - Flask documentation
 - PySpark documentation
 
-## 📧 Contact
+##  Contact
 
-For questions or support, please contact: your.email@example.com
+For questions or support, please contact: alkhodaryabed90@gma.com
 
-## 🔗 Links
 
-- **Live Demo**: [Your deployment URL]
-- **GitHub Repository**: [Your GitHub URL]
-- **Documentation**: [Your docs URL]
-- **Video Demo**: [Your video URL]
-
-## 📊 Results Format
+##  Results Format
 
 The downloaded results are formatted as a structured text report with three main sections:
 
@@ -371,4 +365,4 @@ Presents scalability metrics in a table format:
 - Speedup factor
 - Efficiency percentage
 
-All results are human-readable and can be easily copied or further analyzed.
+ 
