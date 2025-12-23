@@ -44,14 +44,14 @@ A comprehensive web application for distributed data processing and machine lear
                         └─────────────┘
 ```
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.8 or higher
 - Apache Spark 3.5.0
 - Java 8 or higher (for Spark)
 - Modern web browser
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -329,7 +329,7 @@ Response:
 
 This project is licensed under the MIT License.
 
-## 👥 Authors
+##  Authors
 
 - Mahmoud Alkhudari - Initial work
 
@@ -366,3 +366,4 @@ Presents scalability metrics in a table format:
 - Efficiency percentage
 
  
+
