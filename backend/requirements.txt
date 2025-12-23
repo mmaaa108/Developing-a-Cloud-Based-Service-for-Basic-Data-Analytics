@@ -1,0 +1,34 @@
+# Flask and Web Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+Werkzeug==3.0.1
+
+# Apache Spark and PySpark
+pyspark==3.5.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Cloud Storage
+boto3==1.34.10  # AWS S3
+google-cloud-storage==2.13.0  # GCP
+azure-storage-blob==12.19.0  # Azure
+
+# File Processing
+PyPDF2==3.0.1
+python-magic==0.4.27
+
+# Utilities
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+
+# Monitoring and Logging
+psutil==5.9.6
+
+# Testing
+pytest==7.4.3
+pytest-flask==1.3.0
